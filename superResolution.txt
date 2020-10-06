@@ -1,0 +1,20 @@
+https://habr.com/ru/post/147807/	-> методы работы с изображением (старьё) скорее всего -
+
+https://habr.com/ru/post/439766/	-> пример, как должна работать программа (в теории) +
+
+https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d	-> Мат часть
+
+-----------------------------------------------
+
+-> https://paperswithcode.com/task/image-super-resolution	изображение
+-> https://paperswithcode.com/task/video-super-resolution	видео
+
+https://arxiv.org/pdf/1801.04590.pdf - статься гугл (стоит перевести)
+
+https://medium.com/@jonfryd/machine-learning-fueled-video-super-resolution-985d66a361c2	-> пример работы сервиса PIXOP
+
+-----------------------------------------------
+
+*Статься соотечественника* https://imaging.cs.msu.ru/pub/Disser_Nasonov_MSU.pdf	-> 'Методы анализа и постобработки для задачи повышенияразрешения изображений'
+
+https://www.youtube.com/watch?v=2t05gq13xy0	-> Мини-лекция от Яндекс
