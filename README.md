@@ -8,3 +8,9 @@
 ### Using PyTorch
 
 - In [this file](https://github.com/xxxFilosoFxxx/Machine_learning/blob/master/GAN/GAN_height_and_weight.ipynb) a generative-adversarial network was used using the example of height-weight data. The pandas library was used and the data normalized.
+
+### MNIST
+
+- In [this file](https://github.com/xxxFilosoFxxx/Machine_learning/blob/master/MNIST%20even%20numbers/MNIST_even_numbers.ipynb) using only numpy library (with little learning time) handwritten numbers were classified into even and odd.
+
+
